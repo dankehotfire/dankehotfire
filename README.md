@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hey 👋
+___
 
-<!--
-**dankehotfire/dankehotfire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🇷🇺 Student from Russia
+- 💻 iOS Developer
+- 🥋 A former professional athlete
 
-Here are some ideas to get you started:
+___
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+
+
+
+
+
+
+[instagram]: https://www.instagram.com/dankehotfire/
+[linkedin]: https://www.linkedin.com/in/danil-nurgaliev-359148201/
+[telegram]: https://t.me/nurgalievd
