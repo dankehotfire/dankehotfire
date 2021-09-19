@@ -8,13 +8,6 @@ ___
 ___
 
 ### Connect with me:
-
-
-
-
-
-
-
-[instagram]: https://www.instagram.com/dankehotfire/
-[linkedin]: https://www.linkedin.com/in/danil-nurgaliev-359148201/
-[telegram]: https://t.me/nurgalievd
+[<img src='/contacts/link.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/danil-nurgaliev-359148201/)
+[<img src='/contacts/telegram.png' alt='telegram' height='40'>](https://t.me/nurgalievd)
+[<img src='/contacts/inst.png' height='40'>](https://www.instagram.com/dankehotfire/)
