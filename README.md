@@ -1,7 +1,7 @@
 ### Hey 👋
 ___
 
-<br /> &nbsp; &nbsp;🇷🇺 Student from Russia
+&nbsp; &nbsp;🇷🇺 Student from Russia
 <br /> &nbsp; &nbsp;💻 iOS Developer
 <br /> &nbsp; &nbsp;🥋 A former professional athlete
 
