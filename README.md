@@ -1,9 +1,9 @@
 ### Hey 👋
 ___
 
-- 🇷🇺 Student from Russia
-- 💻 iOS Developer
-- 🥋 A former professional athlete
+<br /> &nbsp; &nbsp;🇷🇺 Student from Russia
+<br /> &nbsp; &nbsp;💻 iOS Developer
+<br /> &nbsp; &nbsp;🥋 A former professional athlete
 
 ___
 
