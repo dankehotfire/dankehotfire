@@ -1,6 +1,6 @@
 ### Hey 👋
 ___
-<br /> &nbsp; &nbsp;💻 iOS Developer at Sber.Domclick https://domclick.ru/
+<br /> &nbsp; &nbsp;💻 iOS Developer at Domclick by Sber https://domclick.ru/
 <br /> &nbsp; &nbsp;🥋 A former professional athlete
 ___
 
