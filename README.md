@@ -1,9 +1,7 @@
 ### Hey 👋
 ___
-
 <br /> &nbsp; &nbsp;💻 iOS Developer at Sber.Domclick https://domclick.ru/
 <br /> &nbsp; &nbsp;🥋 A former professional athlete
-
 ___
 
 ### Connect with me:
