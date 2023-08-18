@@ -1,6 +1,4 @@
-### Hey 👋
-___
-<br /> &nbsp; &nbsp;💻 iOS Developer at VK https://mail.ru
+### Hey! My name is Danil and currently i'm iOS developer at https://mail.ru 👋
 ___
 
 ### Connect with me:
