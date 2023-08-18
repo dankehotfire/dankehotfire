@@ -1,4 +1,4 @@
-### Hey! My name is Danil and currently i'm iOS developer at https://mail.ru 👋
+### Hey! My name is Danil and currently I'm iOS developer at https://mail.ru 👋
 ___
 
 ### Connect with me:
