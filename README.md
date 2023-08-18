@@ -1,7 +1,6 @@
 ### Hey 👋
 ___
 <br /> &nbsp; &nbsp;💻 iOS Developer at VK https://mail.ru
-<br /> &nbsp; &nbsp;🥋 A former professional athlete
 ___
 
 ### Connect with me:
